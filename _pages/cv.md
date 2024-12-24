@@ -24,7 +24,7 @@ Awards and scholarships/fellowships
 * RI-MUHC Studentship 2023: Granted by Research Institute McGill University Health Centre (RI-MUHC) from January to December 2023
 * Graduate Excellence Fellowship Award 2023: Granted by the Medical Physics Unit, McGill University.
 * Graduate Excellence Fellowship Award 2022: Granted by the Medical Physics Unit, McGill University, to highly qualified students who are registering in the Medical Physics Graduate Program.
-* Dierential Fee Waiver for International Students Award: Granted by McGill University for the first academic year. It exempts students from international tuition supplements and allows them to have tuition fees equal to those of a Quebec resident student
+* Dierential Fee Waiver for International Students Award: Granted by McGill University for the first academic year. It exempts students from international tuition supplements and allows them to have tuition fees equal to those of a Quebec resident student
 * Summer Physics Research Fellowship: Month stipend granted by the Department of Physics at the Ponticia Universidad Catolica de Chile.
 * Padre Hurtado Award: Full tuition fee waiver, granted by the Pontificia Universidad Catolica de Chile for undergraduate studies, corresponding to the academic years from 2017 to 2021. This award is granted to students who come from a low-income background and achieved high performance on the University Selection Test (PSU: Prueba de Seleccion Universitaria).
 * Bicentenario Scholarship: Partial tuition fee waiver for higher education students who had a high academic performance in high school and are from low-income backgrounds. Granted by the Government of Chile, for academic years from 2017 to 2021.
