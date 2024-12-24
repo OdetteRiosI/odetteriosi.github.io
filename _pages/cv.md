@@ -46,7 +46,7 @@ redirect_from:
     * Research Assistant: "Automatic segmentation of prostate lesions using machine and deep learning tools based on MRI series"
     * Supervisor: Dr. Domingo Mery, Co-supervisor: M.D. Cecilia Besa
       
-* Pontificia Universidad Catolica de Chile, March 2020 - July 2022
+* Pontificia Universidad Catolica de Chile, March 2020 - July 2022
     * Undergraduate Research Student: "MRI-based surrogate imaging markers of aggressiveness in prostate cancer"
     * Supervisor: Dr. Paola Caprile, Co-supervisor: M.D. Cecilia Besa
 
