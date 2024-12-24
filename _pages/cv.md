@@ -10,13 +10,13 @@ redirect_from:
 [PDF version](http://odetteriosi.github.io/files/CV_Odette_Rios_Ibacache_Updated.pdf)
 
   
-Education
+### Education
 ======
 * Ph.D student in Physics (Medical Physics Concentration), McGill University, 2024-Present 
 * M.Sc. in Medical Radiation Physics, McGill University, 2024
 * Licentiate in Physics, Pontificia Universidad Catolica de Chile, 2021
 
-Awards and scholarships/fellowships
+### Awards and scholarships/fellowships
 ======
 * Best Poster Presentation Award at the Cancer Translational Research Horizons 2024 event
 * Young Rising Stars Competition at the XXth International Conference on the use of Computers in Radiation therapy (ICCR 2024): Third Place
@@ -31,14 +31,28 @@ Awards and scholarships/fellowships
 * Bicentenario Scholarship: Partial tuition fee waiver for higher education students who had a high academic performance in high school and are from low-income backgrounds. Granted by the Government of Chile, for academic years from 2017 to 2021.
 * Presidente de la Republica Scholarship: Monthly stipend granted by the Government of Chile from 2015 until 2017. This scholarship is granted to superior education students in high-vulnerability economic conditions with high academic performance.
   
-Skills
+### Research Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* McGill University, September 2024 - Present
+    * PhD Research Student: "Towards the development of an mCODE-radiomics extension and knowledge base for digital twins in radiotherapy"
+    * Supervisor: Dr. John Kildea, Co-Supervisor: Dr. Amal Zouaq
+
+* McGill University, May 2023 - August 2024
+    * Master Research Student: "Development and evaluation of a novel articial intelligence model to predict radiotherapy replanning for head and neck cancer"
+    * Supervisor: Dr. John Kildea
+
+* Pontificia Universidad Catolica de Chile, January 2022 - July 2022
+    * iHealth Group - Millennium Institute for Intelligent Healthcare Engineering
+    * Research Assistant: "Automatic segmentation of prostate lesions using machine and deep learning tools based on MRI series"
+    * Supervisor: Dr. Domingo Mery, Co-supervisor: M.D. Cecilia Besa
+      
+* Ponticia Universidad Catolica de Chile, March 2020 - July 2022
+    * Undergraduate Research Student: "MRI-based surrogate imaging markers of aggressiveness in prostate cancer"
+    * Supervisor: Dr. Paola Caprile, Co-supervisor: M.D. Cecilia Besa
+
+* Ponticia Universidad Catolica de Chile - Instituto de Fisica, January 2019
+    * Undergraduate Research Student (Summer Full Time Internship): "Fabrication of nanohybrid structures using porous alumina membranes"
+    * Supervisor: Dr. Samuel Hevia
 
 Publications
 ======
