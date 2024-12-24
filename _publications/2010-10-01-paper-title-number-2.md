@@ -10,7 +10,7 @@ paperurl: 'https://doi.org/10.3390/diagnostics13172779'
 citation: 'Dominguez, I., Rios-Ibacache, O., Caprile, P., Gonzalez, J., San Francisco, I. F., & Besa, C. (2023). MRI-Based Surrogate Imaging Markers of Aggressiveness in Prostate Cancer: Development of a Machine Learning Model Based on Radiomic Features. Diagnostics, 13(17), 2779. https://doi.org/10.3390/diagnostics13172779'
 ---
 
-<center><br/><img src='/images/paper1.png' width="800" height="250"></center>
+<center><br/><img src='/images/paper1.png' width="800" height="300"></center>
 
 #### Abstract
 
