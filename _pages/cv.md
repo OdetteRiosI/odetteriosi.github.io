@@ -29,7 +29,7 @@ MUHC) from January to December 2023
 * Graduate Excellence Fellowship Award 2023: Granted by the Medical Physics Unit, McGill University.
 * Graduate Excellence Fellowship Award 2022: Granted by the Medical Physics Unit, McGill University, to
 highly qualified students who are registering in the Medical Physics Graduate Program.
-* Dierential Fee Waiver for International Students Award: Granted by McGill University for the first
+* Dierential Fee Waiver for International Students Award: Granted by McGill University for the first
 academic year. It exempts students from international tuition supplements and allows them to have tuition
 fees equal to those of a Quebec resident student
 * Summer Physics Research Fellowship: Month stipend granted by the Department of Physics at the
