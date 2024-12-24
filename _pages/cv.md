@@ -74,12 +74,11 @@ redirect_from:
 * Member of the McGill Medical Physics Student Council, September 2024 - Present
 * Medical Physics Journal Club Coordinator at McGill Unviersity, September 2024 - Present
 * VP Communications the Cancer Research Program Trainee Council within the Research Institute of McGill University Health Centre, September 2024 - Present
-*Volunteering at the Physics Outreach Group, September 2024 - Present.
-*Social Media Coordinator in the Cancer Research Program Trainee Council within the Research
-Institute of McGill University Health Centre, October 2023 - August 2024
-*Student volunteering in the Laurie Hendren Symposium On Patient-in-the-Loop Data, August 28th 2024
-*Judge at Physics Hackathon 2023 November 3rd - 5th 2023
-*Fair counselor in Novatas por un día (female first-year students for a day) at PUC, July 2022
+* Volunteering at the Physics Outreach Group, September 2024 - Present.
+* Social Media Coordinator in the Cancer Research Program Trainee Council within the Research Institute of McGill University Health Centre, October 2023 - August 2024
+* Student volunteering in the Laurie Hendren Symposium On Patient-in-the-Loop Data, August 28th 2024
+* Judge at Physics Hackathon 2023 November 3rd - 5th 2023
+* Fair counselor in Novatas por un día (female first-year students for a day) at PUC, July 2022
 * COANIQUEM Burned Center AID for Children Foundation, 2021 - July 2022
 * Teleton Chile, October 2021 - December 2021
 * Virtual Exposition for future prospective students 2022 at Pontificia Universidad Catolica de Chile, October 2021
