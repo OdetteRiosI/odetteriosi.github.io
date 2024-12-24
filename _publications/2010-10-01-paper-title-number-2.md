@@ -3,7 +3,7 @@ title: "MRI-Based Surrogate Imaging Markers of Aggressiveness in Prostate Cancer
 collection: publications
 category: manuscripts
 permalink: /publication/paper-number-1 
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'This study aimed to develop a noninvasive Machine Learning (ML) model to identify clinically significant prostate cancer (csPCa) according to Gleason Score (GS) based on biparametric MRI (bpMRI) radiomic features and clinical information.'
 date: 2022-08-28
 venue: 'Journal 1'
 paperurl: 'https://doi.org/10.3390/diagnostics13172779'
