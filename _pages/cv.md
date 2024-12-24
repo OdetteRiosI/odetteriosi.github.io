@@ -46,11 +46,11 @@ redirect_from:
     * Research Assistant: "Automatic segmentation of prostate lesions using machine and deep learning tools based on MRI series"
     * Supervisor: Dr. Domingo Mery, Co-supervisor: M.D. Cecilia Besa
       
-* Ponticia Universidad Catolica de Chile, March 2020 - July 2022
+* Pontificia Universidad Catolica de Chile, March 2020 - July 2022
     * Undergraduate Research Student: "MRI-based surrogate imaging markers of aggressiveness in prostate cancer"
     * Supervisor: Dr. Paola Caprile, Co-supervisor: M.D. Cecilia Besa
 
-* Ponticia Universidad Catolica de Chile - Instituto de Fisica, January 2019
+* Pontificia Universidad Catolica de Chile - Instituto de Fisica, January 2019
     * Undergraduate Research Student (Summer Full Time Internship): "Fabrication of nanohybrid structures using porous alumina membranes"
     * Supervisor: Dr. Samuel Hevia
 
