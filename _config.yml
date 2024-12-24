@@ -26,9 +26,9 @@ author:
   pronouns         : "she/her"  
   bio              : ""
   employer         : "McGill University"
-  URI              :  "http://odetteriosi.github.io/files/CV_Odette_Rios_Ibacache_Updated.pdf"
+  URI              :  ""
   email            : "odette.riosibacache@mail.mcgill.ca" 
-  cv: "CV_Odette_Rios_Ibacache_Updated.pdf"
+  cv               : "http://odetteriosi.github.io/files/CV_Odette_Rios_Ibacache_Updated.pdf"
 
   # Academic websites
   #cv            :  # URL - Update with the correct link to your profile
