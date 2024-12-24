@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 ---
 
+[PDF version](http://odetteriosi.github.io/files/CV_Odette_Rios_Ibacache_Updated.pdf)
 
   
 Education
