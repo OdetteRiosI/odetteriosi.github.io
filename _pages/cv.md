@@ -38,7 +38,7 @@ redirect_from:
     * Supervisor: Dr. John Kildea, Co-Supervisor: Dr. Amal Zouaq
 
 * McGill University, May 2023 - August 2024
-    * Master Research Student: "Development and evaluation of a novel articial intelligence model to predict radiotherapy replanning for head and neck cancer"
+    * Master Research Student: "Development and evaluation of a novel artificial intelligence model to predict radiotherapy replanning for head and neck cancer"
     * Supervisor: Dr. John Kildea
 
 * Pontificia Universidad Catolica de Chile, January 2022 - July 2022
