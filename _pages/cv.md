@@ -12,7 +12,7 @@ redirect_from:
   
 ### Education
 
-* <img src='/images/mcgill.png' width="15" height="20"> Ph.D student in Physics (Medical Physics Concentration), McGill University, 2024-Present 
+* <img src='/images/mcgill.png' width="15" height="20"> Ph.D student in Physics (Medical Physics Concentration), McGill University, September 2024-Present 
 * <img src='/images/mcgill.png' width="15" height="20"> M.Sc. in Medical Radiation Physics, McGill University, 2024
 * <img src='/images/puc.png' width="15" height="20"> Licentiate in Physics, Pontificia Universidad Catolica de Chile, 2021
 
