@@ -28,14 +28,15 @@ author:
   employer         : "McGill University"
   uri              : # URL
   email            : "odette.riosibacache@mail.mcgill.ca" 
+  cv: "CV_Odette_Rios_Ibacache_Updated.pdf"
 
   # Academic websites
-  cv            : "CV_Odette_Rios_Ibacache_Updated.pdf" # URL - Update with the correct link to your profile
+  #cv            :  # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=wSukTTIAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0003-9254-5592"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+ # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
  # scopus           : # URL
 
