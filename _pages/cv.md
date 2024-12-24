@@ -26,8 +26,8 @@ Medicine (AAPM). This fellowship is given to two first-year doctoral students.
 and Machine Learning in Radiotherapy: Second Place
 * RI-MUHC Studentship 2023: Granted by Research Institute McGill University Health Centre (RI-
 MUHC) from January to December 2023
-* Graduate Excellence Fellowship Award 2023: Granted by Medical Physics Unit, McGill University.
-* Graduate Excellence Fellowship Award 2022: Granted by Medical Physics Unit, McGill University, to
+* Graduate Excellence Fellowship Award 2023: Granted by the Medical Physics Unit, McGill University.
+* Graduate Excellence Fellowship Award 2022: Granted by the Medical Physics Unit, McGill University, to
 highly qualified students who are registering in the Medical Physics Graduate Program.
 * Dierential Fee Waiver for International Students Award: Granted by McGill University for the first
 academic year. It exempts students from international tuition supplements and allows them to have tuition
