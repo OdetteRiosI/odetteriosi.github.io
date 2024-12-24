@@ -11,13 +11,13 @@ redirect_from:
 
   
 ### Education
-======
+
 * Ph.D student in Physics (Medical Physics Concentration), McGill University, 2024-Present 
 * M.Sc. in Medical Radiation Physics, McGill University, 2024
 * Licentiate in Physics, Pontificia Universidad Catolica de Chile, 2021
 
 ### Awards and scholarships/fellowships
-======
+
 * Best Poster Presentation Award at the Cancer Translational Research Horizons 2024 event
 * Young Rising Stars Competition at the XXth International Conference on the use of Computers in Radiation therapy (ICCR 2024): Third Place
 * 2024 AAPM/RSNA Doctoral Fellowship: Granted by the American Association of Physicists in Medicine (AAPM). This fellowship is given to two first-year doctoral students.
@@ -32,7 +32,6 @@ redirect_from:
 * Presidente de la Republica Scholarship: Monthly stipend granted by the Government of Chile from 2015 until 2017. This scholarship is granted to superior education students in high-vulnerability economic conditions with high academic performance.
   
 ### Research Experience
-======
 * McGill University, September 2024 - Present
     * PhD Research Student: "Towards the development of an mCODE-radiomics extension and knowledge base for digital twins in radiotherapy"
     * Supervisor: Dr. John Kildea, Co-Supervisor: Dr. Amal Zouaq
