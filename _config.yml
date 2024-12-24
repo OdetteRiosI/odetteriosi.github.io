@@ -24,7 +24,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Odette Rios-Ibacache"
   pronouns         : "she/her"  
-  bio              : "Hi! I am a PhD student in Medical Physics since September 2024. My research focuses on software development, radiation oncology informatics, and applications of AI tools for Radiotherapy outcomes prediction and diagnosis."
+  bio              : # "Hi! I am a PhD student in Medical Physics since September 2024. My research focuses on software development, radiation oncology informatics, and applications of AI tools for Radiotherapy outcomes prediction and diagnosis."
   location         : "Montreal, Quebec"
   employer         : "McGill University"
   uri              : # URL
