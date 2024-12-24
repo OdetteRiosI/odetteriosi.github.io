@@ -2,7 +2,7 @@
 title: "MRI-Based Surrogate Imaging Markers of Aggressiveness in Prostate Cancer: Development of a Machine Learning Model Based on Radiomic Features"
 collection: publications
 category: manuscripts
-permalink: /publication/paper-number-1
+permalink: /publication/paper-number-1 
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2022-08-28
 venue: 'Journal 1'
