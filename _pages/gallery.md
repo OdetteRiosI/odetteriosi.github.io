@@ -6,3 +6,4 @@ redirect_from:
   - /gallery
 ---
 
+<center><br/><img src='/images/pic1.jpg' width="250" height="250"></center>
