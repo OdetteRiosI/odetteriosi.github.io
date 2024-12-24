@@ -11,4 +11,5 @@ Hi! I am an international PhD student in Medical Physics at [McGill University](
 
 Previously, I pursued my undergraduate studies in Physics in my home country Chile at [Pontificia Universidad Católica de Chile](www.uc.cl), where I investigated the potential of radiomics features from MRI images for classifying prostate cancer aggressiveness, under the supervision of Prof. Paola Caprile.
 
+<center><i>Chile</i></center>
 <center><br/><img src='/images/chile.png' width="250" height="250"></center>
