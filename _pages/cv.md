@@ -53,24 +53,36 @@ redirect_from:
     * Undergraduate Research Student (Summer Full Time Internship): "Fabrication of nanohybrid structures using porous alumina membranes"
     * Supervisor: Dr. Samuel Hevia
 
-Publications
-======
+### Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
+### Research presentations
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
+### Teaching
+<ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+### Outreach and service
+* Judge and Mentor at Physics Hackathon 2024, November 15th - 17th 2024
+* Representative in the Equity, Diversity Inclusion (EDI) Subcommittee at the Medical Physics Unit, September 2024 - Present
+* Member of the McGill Medical Physics Student Council, September 2024 - Present
+* Medical Physics Journal Club Coordinator at McGill Unviersity, September 2024 - Present
+* VP Communications the Cancer Research Program Trainee Council within the Research Institute of McGill University Health Centre, September 2024 - Present
+*Volunteering at the Physics Outreach Group, September 2024 - Present.
+*Social Media Coordinator in the Cancer Research Program Trainee Council within the Research
+Institute of McGill University Health Centre, October 2023 - August 2024
+*Student volunteering in the Laurie Hendren Symposium On Patient-in-the-Loop Data, August 28th 2024
+*Judge at Physics Hackathon 2023 November 3rd - 5th 2023
+*Fair counselor in Novatas por un día (female first-year students for a day) at PUC, July 2022
+* COANIQUEM Burned Center AID for Children Foundation, 2021 - July 2022
+* Teleton Chile, October 2021 - December 2021
+* Virtual Exposition for future prospective students 2022 at Pontificia Universidad Catolica de Chile, October 2021
+* Fundacion Nuestros Hijos October - November 2021
+* First-year students welcome at Faculty of Physics Pontificia Universidad Catolica de Chile, January 2018
+* Second Version of Scientific Fair at Institute of Physics Pontificia Universidad Catolica de Chile, 2017
