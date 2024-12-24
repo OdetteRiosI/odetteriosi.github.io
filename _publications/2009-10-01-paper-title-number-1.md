@@ -2,7 +2,7 @@
 title: "CV"
 collection: CV
 category: manuscripts
-permalink: /CV/CV_updated.pdf
+permalink: /CV/CV_Odette_Rios_Ibacache_Updated.pdf
 slidesurl: 'http://odetteriosi.github.io/files/CV_Odette_Rios_Ibacache_Updated.pdf'
 paperurl: 'http://odetteriosi.github.io/files/CV_Odette_Rios_Ibacache_Updated.pdf'
 ---
