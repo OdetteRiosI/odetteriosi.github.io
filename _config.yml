@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "PhD student in Medical Physics"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Odette Rios-Ibacache"
 description              : &description "personal description"
@@ -22,8 +22,8 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Odette Rios-Ibacache"
+  pronouns         : "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Montreal, Quebec"
   employer         : "McGill University"
