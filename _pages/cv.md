@@ -7,8 +7,8 @@ redirect_from:
   - /resume
 ---
 
-{%  %}
 
+  
 Education
 ======
 * Ph.D student in Physics (Medical Physics Concentration), McGill University, 2024-Present 
