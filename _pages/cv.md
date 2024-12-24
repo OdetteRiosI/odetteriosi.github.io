@@ -19,7 +19,7 @@ Awards and scholarships/fellowships
 ======
 * Best Poster Presentation Award at the Cancer Translational Research Horizons 2024 event
 * Young Rising Stars Competition at the XXth International Conference on the use of Computers in Radiation therapy (ICCR 2024): Third Place
-* 2024 AAPM/RSNA Doctoral Fellowship: Granted by the American Association of Physicists in Medicine (AAPM). This fellowship is given to two first-year doctoral students.
+* 2024 AAPM/RSNA Doctoral Fellowship: Granted by the American Association of Physicists in Medicine (AAPM). This fellowship is given to two first-year doctoral students.
 * Science Slam Competition at 5th DKFZ Summer School in Medical Physics 2023: Data Science and Machine Learning in Radiotherapy: Second Place
 * RI-MUHC Studentship 2023: Granted by Research Institute McGill University Health Centre (RI-MUHC) from January to December 2023
 * Graduate Excellence Fellowship Award 2023: Granted by the Medical Physics Unit, McGill University.
