@@ -24,7 +24,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Odette Rios-Ibacache"
   pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "<h1 style="font-size:1.0vw"><p>&#128512; Hi! I am a PhD student in Medical Physics at  <a href="https://www.mcgill.ca" target="_blank"> <font color="blue">McGill University</font></a>  since September 2024. My research focuses on software development, radiation oncology informatics, and applications of Artificial Intelligence tools for Radiotherapy outcomes prediction and diagnosis. Currently, I work under the supervision of Prof. John Kildea, at the <a href="https://kildealab.com/" target="_blank"> <font color="blue">kildealab</font></a>, Radiation Oncology Knowledge Sharing (ROKS) team.<p></h1>"
   location         : "Montreal, Quebec"
   employer         : "McGill University"
   uri              : # URL
