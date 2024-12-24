@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% CV_Odette_Rios_Ibacache_Updated.pdf %}
+{%  %}
 
 Education
 ======
