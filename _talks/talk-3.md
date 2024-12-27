@@ -4,7 +4,7 @@ collection: talks
 type: "Institutional talk"
 permalink: /talks/talk-3
 venue: "McGill Medical Physics Friday Morning Talk"
-date: 2024-03-01
+date: 2024-05-01
 location: "Montreal, QC, Canada"
 ---
 
