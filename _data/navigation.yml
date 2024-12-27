@@ -8,8 +8,8 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Oral Presentations and peer-reviewd posters"
-    url: /presentations/    
+  - title: "Oral Presentations and peer-reviewed posters"
+    url: /talks/    
     
   - title: "Publications"
     url: /publications/
