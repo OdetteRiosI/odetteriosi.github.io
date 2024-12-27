@@ -7,8 +7,8 @@
    ========================================================================== */
 
 .sidebar {
-  -webkit-transform: translate3d(0, 0 , 0); #0
-          transform: translate3d(0, 0 , 0); #0
+  -webkit-transform: translate3d(0, 0 , 0);
+          transform: translate3d(0, 0 , 0);
 
   @include clearfix();
   margin-bottom: 1em;
@@ -79,7 +79,7 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 36px; #36px
+  width: 36px;
   // set width only, for non-square avatars
   // height: 36px;
 
@@ -90,7 +90,7 @@
   }
 
   img {
-    max-width: 100px;
+    max-width: 175px;
     border-radius: 50%;
 
     @include breakpoint($large) {
@@ -103,8 +103,8 @@
 .author__content {
   display: table-cell;
   vertical-align: top;
-  padding-left: 15px; #15px
-  padding-right: 25px; #25px
+  padding-left: 15px;
+  padding-right: 25px;
   line-height: 1;
 
   @include breakpoint($large) {
