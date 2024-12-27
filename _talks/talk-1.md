@@ -1,5 +1,5 @@
 ---
-title: "Towards the quantification of anatomical changes in head and neck cancer patients"
+title: "[Oral Presentation]Towards the quantification of anatomical changes in head and neck cancer patients"
 collection: talks
 type: "Conference talk"
 permalink: /talks/talk-1
