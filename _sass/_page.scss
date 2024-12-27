@@ -130,7 +130,7 @@
     }
 
     .wrapper {
-      padding-left: 1.5em;
+      padding-left: 1em;
       padding-right: 1em;
 
       @include breakpoint($x-large) {
@@ -257,7 +257,7 @@
   }
 
   strong {
-    margin-right: 10px; #10px
+    margin-right: 10px;
   }
 }
 
