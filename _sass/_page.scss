@@ -6,7 +6,7 @@
   @include container;
   @include clearfix;
   margin-top: 2em;
-  padding-left: 0.5em;
+  padding-left: 1em;
   padding-right: 1em;
   animation: intro 0.3s both;
   animation-delay: 0.35s;
@@ -91,7 +91,7 @@
   }
 
   dd {
-    margin-left: 3em;
+    margin-left: 0.5em;
     font-family: $sans-serif;
     font-size: $type-size-6;
   }
