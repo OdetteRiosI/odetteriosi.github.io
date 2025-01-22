@@ -8,7 +8,7 @@ redirect_from:
 
 <div class="row">
   <div class="column">
-    <br/><img src='/images/20240804_211636.jpg' width="250" height="310"></center> <center><br/>
+    <img src='/images/20240804_211636.jpg' width="250" height="310">
   </div>
   <div class="column">
     <img src='/images/20240406_211311.jpg' width="250" height="310">
