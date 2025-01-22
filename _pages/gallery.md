@@ -21,6 +21,7 @@ In my free time I enjoy painting. Specially cats!
 
  <body>
    <div>
+     <center>
    <div class="container">
     <img src='/images/20240804_211636.jpg' width="230" height="310">
   </div>
@@ -36,5 +37,6 @@ In my free time I enjoy painting. Specially cats!
   <div class="container">
     <img src='/images/IMG-20240810-WA0002.jpeg' width="230" height="310">
   </div>
+     </center>
    </div>
  </body>
