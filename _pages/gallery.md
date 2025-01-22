@@ -17,7 +17,7 @@ redirect_from:
   </head>
 
  <body>
-<p>In my free time I enjoy painting 7#127912. Specially cats! &#x1F431 &#128522</p>
+<p>In my free time I enjoy painting &#127912. Specially cats! &#x1F431 &#128522</p>
  </body>
  
 
