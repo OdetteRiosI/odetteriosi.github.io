@@ -5,9 +5,10 @@ author_profile: true
 redirect_from: 
   - /gallery
 ---
-
+ <body>
 In my free time I enjoy painting <p>&#127912</p>. Specially cats! <p>&#x1F431 &#128522</p>
-
+ </body>
+ 
  <head>
   <style>
     div.container {
