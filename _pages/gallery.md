@@ -28,7 +28,7 @@ redirect_from:
    <div class="container">
     <img src='/images/20240804_211636.jpg' width="210" height="250">
   </div>
-  <div class="column">
+  <div class="container">
     <img src='/images/20240406_211311.jpg' width="210" height="250">
   </div>
  <div class="container">
