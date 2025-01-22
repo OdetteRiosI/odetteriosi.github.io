@@ -6,6 +6,7 @@ redirect_from:
   - /gallery
 ---
 
+In my free time I enjoy painting. Specially cats!
 <div class="row">
   <div class="column">
     <img src='/images/20240804_211636.jpg' width="250" height="310">
