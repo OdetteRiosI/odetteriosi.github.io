@@ -6,7 +6,7 @@ redirect_from:
   - /gallery
 ---
  <body>
-In my free time I enjoy painting <p>&#127912</p>. Specially cats! <p>&#x1F431 &#128522</p>
+<p>In my free time I enjoy painting &#127912. Specially cats! &#x1F431 &#128522</p>
  </body>
  
  <head>
