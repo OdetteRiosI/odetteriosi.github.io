@@ -33,5 +33,8 @@ In my free time I enjoy painting. Specially cats!
   <div class="container">
     <img src='/images/IMG-20241210-WA0000.jpeg' width="230" height="320">
   </div>
+  <div class="container">
+    <img src='/images/IMG-20240810-WA0002.jpeg' width="230" height="320">
+  </div>
    </div>
  </body>
