@@ -7,6 +7,7 @@ redirect_from:
 ---
 
 In my free time I enjoy painting. Specially cats!
+
 <div class="row">
   <div class="column">
     <img src='/images/20240804_211636.jpg' width="250" height="310">
@@ -17,4 +18,6 @@ In my free time I enjoy painting. Specially cats!
   <div class="column">
     <img src='/images/pic2.jpg' width="250" height="310">
   </div>
-</div>
+   <div class="column">
+    <img src='/images/IMG-20241210-WA0000.jpeg' width="230" height="320">
+  </div>
