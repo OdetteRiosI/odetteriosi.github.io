@@ -35,7 +35,7 @@ redirect_from:
     <img src='/images/pic2.jpg' width="220" height="300">
   </div>
   <div class="container">
-    <img src='/images/IMG-20241210-WA0000.jpeg' width="200" height="250">
+    <img src='/images/IMG-20241210-WA0000.jpeg' width="150" height="200">
   </div>
   <div class="container">
     <img src='/images/IMG-20240810-WA0002.jpeg' width="220" height="300">
