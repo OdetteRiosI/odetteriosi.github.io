@@ -6,7 +6,7 @@ redirect_from:
   - /gallery
 ---
 
-In my free time I enjoy painting &#127912. Specially cats! %&#128049 &#128522
+In my free time I enjoy painting &#127912. Specially cats! &#x1F431 &#128522
 
  <head>
   <style>
