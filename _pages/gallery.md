@@ -7,18 +7,6 @@ redirect_from:
 ---
 
 In my free time I enjoy painting. Specially cats!
-
-<head>
-  <style>
-        div.container {
-          display:inline-block;
-        }
-    
-        p {
-          text-align:center;
-        }
-  </style>
-</head>
       
  <body>
    <div>
