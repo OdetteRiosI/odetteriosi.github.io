@@ -64,17 +64,17 @@ redirect_from:
   {% endfor %}</ul>
   
 ### Teaching
-Teaching Assistant at McGill University
- • Radiotherapy Physics (MDPH602): Winter 2025
- • Radiation Physics (MDPH601): Fall 2024
+Teaching Assistant at <img src='/images/mcgill.png' width="15" height="20"> McGill University
+ * Radiotherapy Physics (MDPH602): Winter 2025
+ * Radiation Physics (MDPH601): Fall 2024
  Tutoring at <img src='/images/puc.png' width="15" height="20"> Pontificia Universidad Catolica de Chile 
- • Linear Algebra (MAT1203): Fall 2022
- Teaching Assistant at Ponti cia Universidad Catolica de Chile
- • Precalculus (MAT1000): Fall 2022
- • Calculus 1- Di erential Calculus (MAT1610): Fall 2022 and Summer 2022
- • Dynamics (FIS1514): Spring 2021, Fall 2022
- • Introduction to Mathematics (PIMUB): Fall 2020
- • Calculus 2- Series and Multivariable Di erential Calculus (MAT1620): Fall 2019, Spring 2020,
+ * Linear Algebra (MAT1203): Fall 2022
+Teaching Assistant at Ponti cia Universidad Catolica de Chile
+ * Precalculus (MAT1000): Fall 2022
+ * Calculus 1- Di erential Calculus (MAT1610): Fall 2022 and Summer 2022
+ * Dynamics (FIS1514): Spring 2021, Fall 2022
+ * Introduction to Mathematics (PIMUB): Fall 2020
+ * Calculus 2- Series and Multivariable Di erential Calculus (MAT1620): Fall 2019, Spring 2020,
  Summer 2020, Fall and Spring 2021
  • Static and Dynamics (FIS1513): Spring 2018
  Laboratory Assistant at Ponti cia Universidad Catolica de Chile
