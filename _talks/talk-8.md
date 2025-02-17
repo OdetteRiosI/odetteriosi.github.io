@@ -10,6 +10,6 @@ location: "Lyon, France"
 ---
 
 Rios-Ibacache, O. et al. (2023) 
-<center><br/><img src='/files/Poster_ICCR_RiosIbacache-1.png' width="200" height="500"></center>
+<center><br/><img src='/files/Poster_ICCR_RiosIbacache-1.png' width="250" height="500"></center>
 
 Related material: [Poster PDF version](http://odetteriosi.github.io/files/Poster_ICCR_RiosIbacache.pdf)
