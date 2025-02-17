@@ -32,24 +32,24 @@ redirect_from:
 * Presidente de la Republica Scholarship: Monthly stipend granted by the Government of Chile from 2015 until 2017. This scholarship is granted to superior education students in high-vulnerability economic conditions with high academic performance.
   
 ### Research Experience
-* McGill University, September 2024 - Present
+* <img src='/images/mcgill.png' width="15" height="20"> McGill University, September 2024 - Present
     * PhD Research Student: "Towards the development of an mCODE-radiomics extension and knowledge base for digital twins in radiotherapy"
     * Supervisor: Dr. John Kildea, Co-Supervisor: Dr. Amal Zouaq
 
-* McGill University, May 2023 - August 2024
+* <img src='/images/mcgill.png' width="15" height="20"> McGill University, May 2023 - August 2024
     * Master Research Student: "Development and evaluation of a novel artificial intelligence model to predict radiotherapy replanning for head and neck cancer"
     * Supervisor: Dr. John Kildea
 
-* Pontificia Universidad Catolica de Chile, January 2022 - July 2022
+* <img src='/images/puc.png' width="15" height="20"> Pontificia Universidad Catolica de Chile, January 2022 - July 2022
     * iHealth Group - Millennium Institute for Intelligent Healthcare Engineering
     * Research Assistant: "Automatic segmentation of prostate lesions using machine and deep learning tools based on MRI series"
     * Supervisor: Dr. Domingo Mery, Co-supervisor: M.D. Cecilia Besa
       
-* Pontificia Universidad Catolica de Chile, March 2020 - July 2022
+* <img src='/images/puc.png' width="15" height="20"> Pontificia Universidad Catolica de Chile, March 2020 - July 2022
     * Undergraduate Research Student: "MRI-based surrogate imaging markers of aggressiveness in prostate cancer"
     * Supervisor: Dr. Paola Caprile, Co-supervisor: M.D. Cecilia Besa
 
-* Pontificia Universidad Catolica de Chile - Instituto de Fisica, January 2019
+* <img src='/images/puc.png' width="15" height="20"> Pontificia Universidad Catolica de Chile - Instituto de Fisica, January 2019
     * Undergraduate Research Student (Summer Full Time Internship): "Fabrication of nanohybrid structures using porous alumina membranes"
     * Supervisor: Dr. Samuel Hevia
 
