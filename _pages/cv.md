@@ -69,9 +69,9 @@ redirect_from:
     * Radiation Physics (MDPH601): Fall 2024
 * Tutoring at <img src='/images/puc.png' width="15" height="20"> Pontificia Universidad Catolica de Chile
     * Linear Algebra (MAT1203): Fall 2022
-* Teaching Assistant at Pontificia Universidad Catolica de Chile
+* Teaching Assistant at <img src='/images/puc.png' width="15" height="20"> Pontificia Universidad Catolica de Chile
      * Precalculus (MAT1000): Fall 2022
-     * Calculus 1- Di erential Calculus (MAT1610): Fall 2022 and Summer 2022
+     * Calculus 1- Diferential Calculus (MAT1610): Fall 2022 and Summer 2022
      * Dynamics (FIS1514): Spring 2021, Fall 2022
      * Introduction to Mathematics (PIMUB): Fall 2020
      * Calculus 2- Series and Multivariable Diferential Calculus (MAT1620): Fall 2019, Spring 2020, Summer 2020, Fall and Spring 2021
