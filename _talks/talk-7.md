@@ -10,6 +10,6 @@ location: "Copenhagen, Denmark"
 
 Rios-Ibacache, O. et al. (2022) 
 
-<center><br/><img src='/files/Poster___ESTRO.png' width="400" height="250"></center>
+<center><br/><img src='/files/Poster___ESTRO.png' width="300" height="150"></center>
 
 Related material: [Poster PDF version](http://odetteriosi.github.io/files/Poster___ESTRO.pdf)
