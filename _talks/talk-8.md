@@ -1,11 +1,15 @@
 ---
-title: "Development and evaluation of a novel artificial intelligence model to predict radiotherapy replanning for head and neck cancer"
-collection: talks
-type: "Institutional talk"
-permalink: /talks/talk-6
-venue: "McGill Medical Physics Friday Morning Talk"
-date: 2023-10-01
-location: "Montreal, QC, Canada"
+title: "Development and evaluation of novel parameters for describing anatomi
+cal changes and predicting radiotherapy replanning for head and neck cancer patients"
+collection: posters
+type: "Poster"
+permalink: /talks/talk-8
+venue: " XXth International Conference on the use of Computers in Radiation Therapy (ICCR) 2024"
+date: 2023-07-08/11
+location: "Lyon, France"
 ---
 
 Rios-Ibacache, O. et al. (2023) 
+<center><br/><img src='/files/Poster_ICCR_RiosIbacache-1.png' width="800" height="300"></center>
+
+Related material: [Poster PDF version](http://odetteriosi.github.io/files/Poster_ICCR_RiosIbacache.pdf)
