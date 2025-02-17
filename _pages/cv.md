@@ -64,9 +64,29 @@ redirect_from:
   {% endfor %}</ul>
   
 ### Teaching
-<ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Teaching Assistant at McGill University
+ • Radiotherapy Physics (MDPH602): Winter 2025
+ • Radiation Physics (MDPH601): Fall 2024
+ Tutoring at Ponti cia Universidad Catolica de Chile
+ • Linear Algebra (MAT1203): Fall 2022
+ Teaching Assistant at Ponti cia Universidad Catolica de Chile
+ • Precalculus (MAT1000): Fall 2022
+ • Calculus 1- Di erential Calculus (MAT1610): Fall 2022 and Summer 2022
+ • Dynamics (FIS1514): Spring 2021, Fall 2022
+ • Introduction to Mathematics (PIMUB): Fall 2020
+ • Calculus 2- Series and Multivariable Di erential Calculus (MAT1620): Fall 2019, Spring 2020,
+ Summer 2020, Fall and Spring 2021
+ • Static and Dynamics (FIS1513): Spring 2018
+ Laboratory Assistant at Ponti cia Universidad Catolica de Chile
+ • Laboratory of Electricity and electromagnetism (FIS0153): Spring 2021
+ • Laboratory of Calculus 1- Di erential Calculus (MAT1610L): Fall and Spring 2020, Fall 2022
+ • Laboratory of Calculus 3- Vector Calculus (MAT1630L): Spring 2019, Fall 2022
+ • Laboratory of Di erential Equations (MAT1640L): Spring 2019, Fall 2020
+ • Laboratory Calculus 2- Series and Multivariable Di erential Calculus (MAT1620L): Spring 2018,
+ Spring 2020, Fall and Spring 2021, Fall 2022
+ Grader Assistant at Ponti cia Universidad Catolica de Chile
+ • Calculus 3- Vector Calculus (MAT1630): Fall 2022
+ • Electricity and electromagnetism (FIS1533): Fall 2021
   
 ### Outreach and service
 * Judge and Mentor at Physics Hackathon 2024, November 15th - 17th 2024
