@@ -76,7 +76,7 @@ redirect_from:
      * Introduction to Mathematics (PIMUB): Fall 2020
      * Calculus 2- Series and Multivariable Diferential Calculus (MAT1620): Fall 2019, Spring 2020, Summer 2020, Fall and Spring 2021
      * Static and Dynamics (FIS1513): Spring 2018
- Laboratory Assistant at <img src='/images/puc.png' width="15" height="20"> Pontificia Universidad Catolica de Chile
+ * Laboratory Assistant at <img src='/images/puc.png' width="15" height="20"> Pontificia Universidad Catolica de Chile
      * Laboratory of Electricity and electromagnetism (FIS0153): Spring 2021
      * Laboratory of Calculus 1- Diferential Calculus (MAT1610L): Fall and Spring 2020, Fall 2022
      * Laboratory of Calculus 3- Vector Calculus (MAT1630L): Spring 2019, Fall 2022
