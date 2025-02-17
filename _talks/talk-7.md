@@ -3,7 +3,7 @@ title: "Development of an MRI radiomic-based ML model to predict the aggressiven
 collection: posters
 type: "Poster"
 permalink: /talks/talk-7
-venue: "European SocieTy for Radiotherapy and Oncology (ESTRO) 2022"
+venue: "European SocieTy for Radiotherapy and Oncology (ESTRO) conference 2022 "
 date: 2022-05-06/10
 location: "Copenhagen, Denmark"
 ---
